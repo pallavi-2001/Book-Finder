@@ -28,7 +28,7 @@ export default function BookFinder() {
       "Machine Learning",
       "Motivational Reads",
     ],
-    "Home Wender": [
+    "Home Worker": [
       "Cooking",
       "Gardening",
       "Home Decoration",
@@ -284,7 +284,7 @@ export default function BookFinder() {
         >
           <option value="">Select Occupation</option>
           <option value="College Student">College Student</option>
-          <option value="Home Wender">Home Workers</option>
+          <option value="Home Worker">Home Workers</option>
           <option value="Outdoor Enthusiast">Outdoor Enthusiast</option>
           <option value="Busy Professional">Busy Professional</option>
         </select>
