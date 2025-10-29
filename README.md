@@ -51,10 +51,3 @@ Users can select their occupation and get curated topic suggestions:
 - **CSS** for styling (in `styles.css`)
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/book-finder-react.git
-cd book-finder-react
