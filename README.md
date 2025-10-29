@@ -6,7 +6,7 @@ A simple and powerful **React-based web app** that allows users to search for bo
 ---
 
 ## 🚀 Live Demo
-👉 *(https://codesandbox.io/p/github/pallavi-2001/Book-Finder/main?import=true)*  
+👉 *(https://nt39fx.csb.app/)*  
 
 ---
 
