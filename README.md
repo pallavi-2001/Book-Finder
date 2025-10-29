@@ -6,8 +6,7 @@ A simple and powerful **React-based web app** that allows users to search for bo
 ---
 
 ## 🚀 Live Demo
-👉 *(Add your CodeSandbox or deployed link here)*  
-Example: [https://book-finder-demo.vercel.app](https://book-finder-demo.vercel.app)
+👉 *(https://codesandbox.io/p/github/pallavi-2001/Book-Finder/main?import=true)*  
 
 ---
 
